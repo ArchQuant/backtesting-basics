@@ -1,0 +1,1 @@
+from .SMAVectorBacktester import SMAVectorBacktester
