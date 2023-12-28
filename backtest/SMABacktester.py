@@ -7,12 +7,12 @@
 # (c) Dr. Yves J. Hilpisch
 # The Python Quants GmbH
 #
-import os
 import numpy as np
+import os
 import pandas as pd
 from scipy.optimize import brute
 
-class SMAVectorBacktester(object):
+class SMABacktester(object):
     """ Class for the vectorized backtesting of SMA-based trading strategies.
 
     Attributes
