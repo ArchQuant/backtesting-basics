@@ -5,8 +5,9 @@
 import numpy as np
 import os
 import pandas as pd
-from backtest.MomentumBacktester import *
+from backtest_vector.MomentumBacktester import *
 
+# MeanRevBacktester uses MomentumBacktester as the base class
 class MeanRevBacktester(MomentumBacktester):
     """Mean reversion strategy backtester
     """
