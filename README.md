@@ -1,2 +1,2 @@
 # Backtesting Basics
-Ref: Python for Algorithmic Trading by Yves Hilpisch
+Reference: Python for Algorithmic Trading by Yves Hilpisch
